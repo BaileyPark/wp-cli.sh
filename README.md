@@ -14,3 +14,6 @@ https://wp-cli.org/
 3. 권한 변경
 4. /use/local/bin/wp 로 이동 및 파일 이름 변경 
 5. 최종 확인
+
+이후, 'wp 명령어'로 이용가능합니다.
+e.g. wp --info

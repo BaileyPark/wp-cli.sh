@@ -1,7 +1,7 @@
 # wp-cli.sh
 
 ## 실행방법
-e.g source wp-cli.sh
+source wp-cli.sh
 
 ---
 

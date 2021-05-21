@@ -5,7 +5,7 @@ e.g source wp-cli.sh
 
 ---
 
-## 해당 쉘을 실행시키면, wp-cli에서 제공하는 Installing 순서를 일괄적으로 실행됩니다.
+### 해당 쉘을 실행시키면, wp-cli에서 제공하는 Installing 순서를 일괄적으로 실행됩니다.
 https://wp-cli.org/
 
 ## Installing 과정
